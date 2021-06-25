@@ -1,1 +1,2 @@
 # HydroDock
+This repository provides a practical help with the details of the usage of HydroDock following the steps described in the original publication (Zsidó et al., Determination of ligand binding modes in hydrated viral ion channels to foster drug design and repositioning, J Chem Inf Model, 2021, x, y-z, under review). Collection of input and output files are available as *.tgz for each step. Description of the use of the files can be found in TUTORIAL_HD.pdf.
